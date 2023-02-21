@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../zoo2022"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projektvt23"
+	}
+}
